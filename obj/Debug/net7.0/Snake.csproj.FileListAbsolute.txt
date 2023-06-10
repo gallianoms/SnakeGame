@@ -1,0 +1,15 @@
+/Users/sgall/Projects/Snake/Snake/bin/Debug/net7.0/Snake
+/Users/sgall/Projects/Snake/Snake/bin/Debug/net7.0/Snake.deps.json
+/Users/sgall/Projects/Snake/Snake/bin/Debug/net7.0/Snake.runtimeconfig.json
+/Users/sgall/Projects/Snake/Snake/bin/Debug/net7.0/Snake.dll
+/Users/sgall/Projects/Snake/Snake/bin/Debug/net7.0/Snake.pdb
+/Users/sgall/Projects/Snake/Snake/obj/Debug/net7.0/Snake.csproj.AssemblyReference.cache
+/Users/sgall/Projects/Snake/Snake/obj/Debug/net7.0/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sgall/Projects/Snake/Snake/obj/Debug/net7.0/Snake.AssemblyInfoInputs.cache
+/Users/sgall/Projects/Snake/Snake/obj/Debug/net7.0/Snake.AssemblyInfo.cs
+/Users/sgall/Projects/Snake/Snake/obj/Debug/net7.0/Snake.csproj.CoreCompileInputs.cache
+/Users/sgall/Projects/Snake/Snake/obj/Debug/net7.0/Snake.dll
+/Users/sgall/Projects/Snake/Snake/obj/Debug/net7.0/refint/Snake.dll
+/Users/sgall/Projects/Snake/Snake/obj/Debug/net7.0/Snake.pdb
+/Users/sgall/Projects/Snake/Snake/obj/Debug/net7.0/Snake.genruntimeconfig.cache
+/Users/sgall/Projects/Snake/Snake/obj/Debug/net7.0/ref/Snake.dll
